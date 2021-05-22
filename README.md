@@ -30,7 +30,7 @@
 
 <p align="center">
 
-  <a href=" www.linkedin.com/in/rachid-oubahmane">
+  <a href="https://linkedin.com/in/rachid-oubahmane">
     <img  alt="Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
