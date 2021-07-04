@@ -9,7 +9,7 @@
     <img alt="dev_cat" src="https://github.com/rachidoubahmane99/rachidoubahmane99/blob/main/assets/dev_cat.gif" width="50"> 
 </h2>
 
-<img width="55%" align="right" alt="Bootcamp" src="https://github.com/rachidoubahmane99/rachidoubahmane99/blob/main/assets/github%20workbench.png"/>
+<img width="55%" align="right" alt="Bootcamp" src="https://github.com/rachidoubahmane99/rachidoubahmane99/blob/main/assets/code.gif"/>
 
 <p align="left">
   <samp>
